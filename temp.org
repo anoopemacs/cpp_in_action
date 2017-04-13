@@ -1,0 +1,27 @@
+* c++ in action book
+** Skills that a code manager looks for:
+C++ and object oriented programming.
+Top-down design and top-down implementation techniques.
+Effective programming with templates and C++ exceptions.
+Team work.
+code, easy to understand by other members of the team.
+echniques such as synchronization in a multithreaded environment, effective use of virtual memory, debugging techniques
+
+** g++ is preferable to gcc even for C - code as it issues more warnings
+
+** 3 parts of book: language, techniques, software project
+
+** wincalc 05 works with visual studio 2005
+
+** Language: brief language description
+
+** Techniques:
+Main way that author teaches is resource management oriented coding in
+C++.
+For every resource, at any point in time during the execution of
+the program, there has to be a well-defined owner responsible for its
+release.
+To accomplish the above resource management, we use exceptions feature in C++ language
+*** For windows api:
+We will learn message based programming
+We will use MVC for User Interface
