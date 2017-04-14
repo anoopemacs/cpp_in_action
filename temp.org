@@ -25,3 +25,14 @@ To accomplish the above resource management, we use exceptions feature in C++ la
 *** For windows api:
 We will learn message based programming
 We will use MVC for User Interface
+** Language
+Think of main as the constructor for the global Main Object
+The staircase diagram to think top down is awesome visualization
+
+An object is something that has identity
+const member variables in a Class definition have to be initialized in the preamle of the constructor
+using initialization list
+
+A pair of {} creates a new sub-scope
+
+

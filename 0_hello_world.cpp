@@ -1,11 +1,15 @@
 #include <iostream>
 
-class World {
+class World
+{
 public:
-    World() {
+    World()
+    {
 	std::cout << "Hello World!" << std::endl;
     }
-    ~World() {
+
+    ~World()
+    {
 	// destructor never takes any arguments
 	std::cout << "Goodbye!" << std::endl;
     }
@@ -13,5 +17,6 @@ public:
 
 World TheWorld;
 
-int main() {
+int main()
+{
 }
